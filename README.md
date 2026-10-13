@@ -42,9 +42,7 @@ I'm a final-year Computer Science and Engineering student passionate about web d
 
 ### 📊 GitHub Stats
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" alt="Saniya's GitHub Stats"/>
-</p>
+
 
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default" alt="Saniya's GitHub Streak"/>
